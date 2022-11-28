@@ -1,0 +1,5 @@
+{
+	"name": "Tomato",
+	"price": "100",
+	"location": "Rimi"
+}
